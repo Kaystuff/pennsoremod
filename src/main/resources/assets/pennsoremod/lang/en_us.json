@@ -1,0 +1,13 @@
+{
+  "itemGroup.pennsoremod": "Example Mod Tab",
+  "block.pennsoremod.example_block": "Example Block",
+  "item.pennsoremod.example_item": "Example Item",
+
+  "pennsoremod.configuration.title": "Penn's Ore Mod Configs",
+  "pennsoremod.configuration.section.pennsoremod.common.toml": "Penn's Ore Mod Configs",
+  "pennsoremod.configuration.section.pennsoremod.common.toml.title": "Penn's Ore Mod Configs",
+  "pennsoremod.configuration.items": "Item List",
+  "pennsoremod.configuration.logDirtBlock": "Log Dirt Block",
+  "pennsoremod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "pennsoremod.configuration.magicNumber": "Magic Number"
+}
